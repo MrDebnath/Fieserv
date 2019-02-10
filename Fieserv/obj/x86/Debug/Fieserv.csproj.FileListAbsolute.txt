@@ -1,0 +1,5 @@
+/Users/ad/Projects/Fieserv/Fieserv/bin/Debug/Fieserv.exe
+/Users/ad/Projects/Fieserv/Fieserv/bin/Debug/Fieserv.pdb
+/Users/ad/Projects/Fieserv/Fieserv/obj/x86/Debug/Fieserv.csproj.CoreCompileInputs.cache
+/Users/ad/Projects/Fieserv/Fieserv/obj/x86/Debug/Fieserv.exe
+/Users/ad/Projects/Fieserv/Fieserv/obj/x86/Debug/Fieserv.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{489663F6-B942-4128-AD3F-820B6140DE3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fieserv/Program.cs">
+    <Files>
+      <File FileName="Fieserv/Program.cs" Line="74" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fieserv PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
